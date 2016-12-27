@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d7c2db59d373c3e362049ed27ca73bf2263cb894">
+        <dex dex="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_987ed358d46fc0c7ef3c823be33e2f00ef0c8ccd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_17b4db2c06fa90c047d8691f1c132953a5ccb30e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="69d1fe59e58770b4da35631413d9b3af87cf4afc">
+        <dex dex="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_2191d7f4dae3aac1166dd1df48b244113f57e721/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ibnu/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.0_2c70b0d9949c6cbb682959784e9c459f6c6ebff7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_0e43b9d5fbdc06ea7c6a89ab1d3d73e1367d1cf3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ibnu/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_850a0c59838e699452d666b8ae5ed7a881b2d07e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/ibnu/Downloads/AllTheRecipes-Finished/AllTheRecipes-Finished/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_6c112a122c594bf1aeb1677cb5491b7576edea88/classes.dex" />
+    </item>
+
+</items>
